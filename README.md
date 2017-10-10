@@ -1,7 +1,7 @@
-# Herbert  
+# exif_exfil
 10 points
 >Alright, this is your first real case.
->(sic) An renowned hacker, Herbert Hadimioglu (handle of "Wicked") is suspected of worming through government devices and has been avoiding arrest.
+>An (sic) renowned hacker, Herbert Hadimioglu (handle of "Wicked") is suspected of worming through government devices and has been avoiding arrest.
 >He just recently posted a picture of himself. If you can find where he took the picture, we can detain him.
 >Maybe look into how to view Exif data?
 
